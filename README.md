@@ -26,12 +26,6 @@ The script is located in the `scripts/` folder:
 Please complete sepsis pathway: blood cultures, urine cultures, lactate, CBC, CMP, and notify MD.
 ```
 
-or
-
-```
-Patient stable. Continue routine monitoring.
-```
-
 ## How to Run
 1. Make sure you have **Python 3.6+** installed.
 2. Download or clone this repository.
